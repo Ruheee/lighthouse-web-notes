@@ -10,3 +10,7 @@ I hope to become the best developer there is and to make myself proud, and my fa
 Lighthouse Website https://www.lighthouselabs.ca/ 
 
 taken by  [Rui](https://github.com/Ruheee) 
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+   
